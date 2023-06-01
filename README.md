@@ -22,7 +22,7 @@ Teaches students how to create organizations of high integrity and superior perf
 |      | 06/01 |                                                                  |                                                           |
 | 2    | 06/06 | - Corporate governance and stakeholder relationships (Ch3)       | [Chapter 03](chapter-03-corporate-governance-and-stakeholder-relationships/Chapter%2003%20-%20Learning%20objectives.md) |
 |      | 06/07 | - Hiring ethical people (Ch4)                                    | [Chapter 04](chapter-04-hiring-ethical-people/Chapter%2004%20-%20Learning%20objectives.md) |
-|      | 06/08 | - Codes of ethics and codes of conduct (Ch5)                     | [Chapter 05](chapter-05-codes-of%20ethics-and-codes-of-conduct/Chapter%2005%20-%20Learning%20objectives.md) |
+|      | 06/08 | - Codes of ethics and codes of conduct (Ch5)                     | [Chapter 05](chapter-05-codes-of-ethics-and-codes-of-conduct/Chapter%2005%20-%20Learning%20objectives.md) |
 | 3    | 06/13 | - Ethical decision making (Ch 6)                                 | [Chapter 06](chapter-06-ethical-decision-making/Chapter%2006%20-%20Learning%20objectives.md) |
 |      | 06/14 | - Ethics training (Ch7)                                          | [Chapter 07](chapter-07-ethics-training/Chapter%2007%20-%20Learning%20objectives.md) |
 |      | 06/15 |                                                                  |                                                           |
@@ -65,11 +65,11 @@ Teaches students how to create organizations of high integrity and superior perf
 - Self-Assessment 4.1: Organizational Citizenship Behavior
 - Chapter 4 Chapter Quiz
 
-## [Chapter 05 - Codes of Ethics and Codes of Conduct](chapter-05-codes-of ethics-and-codes-of-conduct)
+## [Chapter 05 - Codes of Ethics and Codes of Conduct](chapter-05-codes-of-ethics-and-codes-of-conduct)
 
-- [Chapter 05: Learning objectives](chapter-05-codes-of%20ethics-and-codes-of-conduct/Chapter%2005%20-%20Learning%20objectives.md)
+- [Chapter 05: Learning objectives](chapter-05-codes-of-ethics-and-codes-of-conduct/Chapter%2005%20-%20Learning%20objectives.md)
 - Chapter 5 eFlashcards
-- [Collins_Ethics_3e_ch05_PPT.pptx](chapter-05-codes-of%20ethics-and-codes-of-conduct/Collins_Ethics_3e_ch05_PPT.pptx)
+- [Collins_Ethics_3e_ch05_PPT.pptx](chapter-05-codes-of-ethics-and-codes-of-conduct/Collins_Ethics_3e_ch05_PPT.pptx)
 - Self-Assessment 5.1: Personal Code of Ethics
 - Chapter 5 Chapter Quiz
 
