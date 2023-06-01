@@ -22,6 +22,8 @@ Investigation of contemporary business issues and management dilemmas in relatio
 
 Instructor: Dr. Ryan P. Fuller, Associate Professor
 
+Sage learning platform : <https://vantage.sagepub.com/Login>
+
 ## Major Assignment Paper
 
 1. [assignment-paper-01](assignment-paper-01.md) - **Due Jun 15**
