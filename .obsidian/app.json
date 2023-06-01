@@ -1,0 +1,11 @@
+{
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_inbox",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "_attachments",
+  "showLineNumber": true,
+  "showUnsupportedFiles": true
+}

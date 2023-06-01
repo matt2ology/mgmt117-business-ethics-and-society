@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "f3bb3dc3479d8afb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0b0209149f75aa5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c08105063680084",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8210dec9b968420",
+    "type": "split",
+    "children": [
+      {
+        "id": "858b192e63b6fb2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e684b723caa629f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e544cdfae5949c8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#MeToo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9be3ba4acbdca222",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 482.5
+  },
+  "right": {
+    "id": "0ccf5f69ed405f45",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbc2e5e73cdc3197",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5ec64623407d35f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d8ba66e47ec36182",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0034e9d5eb446201",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f016c4426ed25c42",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "9691ac86daa92d06",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "0c08105063680084",
+  "lastOpenFiles": [
+    "README.md",
+    "_inbox/Chapter 13 - Global Citizenship.md",
+    "Chapter.md",
+    "_inbox/Chapter.md",
+    "Chapter 01 - Unethical Behaviors in Organizations and Human Nature/Chapter 01 - Learning objectives.md",
+    "Chapter 09 - Ethics Reporting Systems/~$Collins_Ethics_3e_ch09_PPT.pptx",
+    "Chapter 13 - Global Citizenship/Chapter 13 - Learning objectives.md",
+    "MGMT 117 SM23 Syllabus.pdf",
+    "Chapter 13 - Global Citizenship/Chapter 13 - Learning objectives 1.md",
+    "Chapter 13 - Global Citizenship/Collins_Ethics_3e_ch13_PPT.pptx",
+    "Chapter 13 - Global Citizenship",
+    "New folder",
+    "Chapter 12 - Global Sustainability",
+    "Chapter 11 - Ethically Engaging and Empowering Employees",
+    "Chapter 10 - Managers as Ethical Leaders and Performance Assessments",
+    "Chapter 09 - Ethics Reporting Systems",
+    "Chapter 08 - Respecting Employee Diversity",
+    "Chapter 04 - Hiring Ethical People/Chapter 04 - Learning objectives.md",
+    "_templates/permanent-notes.md",
+    "Chapter 12 - Global Sustainability/Chapter 12 - Learning objectives.md",
+    "Chapter 11 - Ethically Engaging and Empowering Employees/Chapter 11 - Learning objectives.md",
+    "Chapter 10 - Managers as Ethical Leaders and Performance Assessments/Chapter 10 - Learning objectives.md",
+    "Chapter 09 - Ethics Reporting Systems/Chapter 09 - Learning objectives.md",
+    "Chapter 08 - Respecting Employee Diversity/Chapter 08 - Learning objectives.md",
+    "Chapter 07 - Ethics Training/Chapter 07 - Learning objectives.md",
+    "Chapter 06 - Ethical Decision-Making/Chapter 06 - Learning objectives.md",
+    "Chapter 05 - Codes of Ethics and Codes of Conduct/Chapter 05 - Learning objectives.md",
+    "Chapter 03 - Corporate Governance and Stakeholder Relationships/Chapter 03 - Learning objectives.md",
+    "Chapter 02 - The Evolution of Business Ethics/Chapter 02 - Learning objectives.md",
+    "Readwise/Books/The Bomber Mafia.md",
+    "Readwise/Books/How to Take Smart Notes.md",
+    "Readwise/Books/My Stepmom&#39;s Daughter Is My Ex.md",
+    "Readwise/Books/Amagi Brilliant Park.md",
+    "Readwise/Books/The Missing README.md",
+    "Readwise/Books/A Primate's Memoir.md",
+    "Readwise/Books/Window on Freedom.md"
+  ]
+}
