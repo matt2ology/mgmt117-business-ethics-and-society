@@ -1,6 +1,6 @@
 # Chapter 02 - Learning Objectives
 
-2.1 Describe salient business ethics issues in precapitalist civilizations.
+2.1 Describe salient business ethics issues in pre-capitalist civilizations.
 
 2.2 Summarize the ethical foundation of capitalism as argued by Adam Smith in the 1700s.
 
