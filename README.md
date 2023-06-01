@@ -140,4 +140,3 @@ Teaches students how to create organizations of high integrity and superior perf
 - Self-Assessment 13.1: Aristotle Happiness Survey
 - Self-Assessment 13.2: Good Citizenship
 - Chapter 13 Chapter Quiz
-- 
