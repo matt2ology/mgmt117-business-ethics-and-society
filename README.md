@@ -68,7 +68,7 @@ Teaches students how to create organizations of high integrity and superior perf
 ## Chapter 05 - Codes of Ethics and Codes of Conduct
 
 - [Chapter 05: Learning objectives](Chapter%2005%20-%20Codes%20of%20Ethics%20and%20Codes%20of%20Conduct/Chapter%2005%20-%20Learning%20objectives.md)
-- Chapter 5 eFlashcards Links to an external site.
+- Chapter 5 eFlashcards
 - [Collins_Ethics_3e_ch05_PPT.pptx](Chapter%2005%20-%20Codes%20of%20Ethics%20and%20Codes%20of%20Conduct/Collins_Ethics_3e_ch05_PPT.pptx)
 - Self-Assessment 5.1: Personal Code of Ethics
 - Chapter 5 Chapter Quiz
