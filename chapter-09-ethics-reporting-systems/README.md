@@ -8,4 +8,4 @@
 
 9.4 Discuss the importance of an effective ethics assist line.
 
-9.5 Describe the negative outcomes whistleblowing has on both the whistleblower and the organization.
+9.5 Describe the negative outcomes whistle-blowing has on both the whistle-blower and the organization.
