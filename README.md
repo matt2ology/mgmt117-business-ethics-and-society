@@ -35,21 +35,21 @@ Teaches students how to create organizations of high integrity and superior perf
 | 6    | 07/05 |                                                                  |                                                           |
 |      | 07/06 | - Global corporate citizenship (Ch13)                            | [Chapter 13](chapter-13-global-citizenship/Chapter%2013%20-%20Learning%20objectives.md) |
 
-## Chapter 01 - Unethical Behaviors in Organizations and Human Nature
+## [Chapter 01 - Unethical Behaviors in Organizations and Human Nature](chapter-01-unethical-behaviors-in-organizations-and-human-nature)
 
 - [Chapter 01: Learning objectives](chapter-01-unethical-behaviors-in-organizations-and-human-nature/Chapter%2001%20-%20Learning%20objectives.md)
 - Chapter 1 eFlashcards
 - [Collins_Ethics_3e_ch01_PPT.pptx](chapter-01-unethical-behaviors-in-organizations-and-human-nature/Collins_Ethics_3e_ch01_PPT.pptx)
 - Chapter 1 Chapter Quiz
 
-## Chapter 02 - The Evolution of Business Ethics
+## [Chapter 02 - The Evolution of Business Ethics](chapter-02-the-evolution-of-business-ethics)
 
 - [Chapter 02: Learning objectives](chapter-02-the-evolution-of-business-ethics/Chapter%2002%20-%20Learning%20objectives.md)
 - Chapter 2 eFlashcards
 - [Collins_Ethics_3e_ch02_PPT.pptx](chapter-02-the-evolution-of-business-ethics/Collins_Ethics_3e_ch02_PPT.pptx)
 - Chapter 2 Chapter Quiz
 
-## Chapter 03 - Corporate Governance and Stakeholder Relationships
+## [Chapter 03 - Corporate Governance and Stakeholder Relationships](chapter-03-corporate-governance-and-stakeholder-relationships)
 
 - [Chapter 03: Learning objectives](chapter-03-corporate-governance-and-stakeholder-relationships/Chapter%2003%20-%20Learning%20objectives.md)
 - Chapter 3 eFlashcards
@@ -57,7 +57,7 @@ Teaches students how to create organizations of high integrity and superior perf
 - Self-Assessment 3.1: Altruism
 - Chapter 3 Chapter Quiz
 
-## Chapter 04 - Hiring Ethical People
+## [Chapter 04 - Hiring Ethical People](chapter-04-hiring-ethical-people)
 
 - [Chapter 04: Learning objectives](chapter-04-hiring-ethical-people/Chapter%2004%20-%20Learning%20objectives.md)
 - Chapter 4 eFlashcards
@@ -65,7 +65,7 @@ Teaches students how to create organizations of high integrity and superior perf
 - Self-Assessment 4.1: Organizational Citizenship Behavior
 - Chapter 4 Chapter Quiz
 
-## Chapter 05 - Codes of Ethics and Codes of Conduct
+## [Chapter 05 - Codes of Ethics and Codes of Conduct](chapter-05-codes-of ethics-and-codes-of-conduct)
 
 - [Chapter 05: Learning objectives](chapter-05-codes-of%20ethics-and-codes-of-conduct/Chapter%2005%20-%20Learning%20objectives.md)
 - Chapter 5 eFlashcards
@@ -73,7 +73,7 @@ Teaches students how to create organizations of high integrity and superior perf
 - Self-Assessment 5.1: Personal Code of Ethics
 - Chapter 5 Chapter Quiz
 
-## Chapter 06 - Ethical Decision-Making
+## [Chapter 06 - Ethical Decision-Making](chapter-06-ethical-decision-making)
 
 - [Chapter 06: Learning objectives](chapter-06-ethical-decision-making/Chapter%2006%20-%20Learning%20objectives.md)
 - Chapter 6 eFlashcards
@@ -81,7 +81,7 @@ Teaches students how to create organizations of high integrity and superior perf
 - Self-Assessment 6.1: Ethical Positions: Relativism and Idealism
 - Chapter 6 Chapter Quiz
 
-## Chapter 07 - Ethics Training
+## [Chapter 07 - Ethics Training](chapter-07-ethics-training)
 
 - [Chapter 07: Learning objectives](chapter-07-ethics-training/Chapter%2007%20-%20Learning%20objectives.md)
 - Chapter 7 eFlashcards
@@ -89,7 +89,7 @@ Teaches students how to create organizations of high integrity and superior perf
 - Self-Assessment 7.1: Ideal Employee
 - Chapter 7 Chapter Quiz
 
-## Chapter 08 - Respecting Employee Diversity
+## [Chapter 08 - Respecting Employee Diversity](chapter-08-respecting-employee-diversity)
 
 - [Chapter 08: Learning objectives](chapter-08-respecting-employee-diversity/Chapter%2008%20-%20Learning%20objectives.md)
 - Chapter 8 eFlashcards
@@ -97,7 +97,7 @@ Teaches students how to create organizations of high integrity and superior perf
 - Self-Assessment 8.1: Empathy
 - Chapter 8 Chapter Quiz
 
-## Chapter 09 - Ethics Reporting Systems
+## [Chapter 09 - Ethics Reporting Systems](chapter-09-ethics-reporting-systems)
 
 - [Chapter 09: Learning objectives](chapter-09-ethics-reporting-systems/Chapter%2009%20-%20Learning%20objectives.md)
 - Chapter 9 eFlashcards
@@ -105,7 +105,7 @@ Teaches students how to create organizations of high integrity and superior perf
 - Self-Assessment 9.1: Approachability
 - Chapter 9 Chapter Quiz
 
-## Chapter 10 - Managers as Ethical Leaders and Performance Assessments
+## [Chapter 10 - Managers as Ethical Leaders and Performance Assessments](chapter-10-managers-as-ethical-leaders-and-performance-assessments)
 
 - [Chapter 10: Learning objectives](chapter-10-managers-as-ethical-leaders-and-performance-assessments/Chapter%2010%20-%20Learning%20objectives.md)
 - Chapter 10 eFlashcards
@@ -114,7 +114,7 @@ Teaches students how to create organizations of high integrity and superior perf
 - Self-Assessment 10.2: Employee Code of Ethics Performance Appraisal
 - Chapter 10 Chapter Quiz
 
-## Chapter 11 - Ethically Engaging and Empowering Employees
+## [Chapter 11 - Ethically Engaging and Empowering Employees](chapter-11-ethically-engaging-and-empowering-employees)
 
 - [Chapter 11: Learning objectives](chapter-11-ethically-engaging-and-empowering-employees/Chapter%2011%20-%20Learning%20objectives.md)
 - Chapter 11 eFlashcards
@@ -124,7 +124,7 @@ Teaches students how to create organizations of high integrity and superior perf
 - Self-Assessment 11.3: Proactive Personality
 - Chapter 11 Chapter Quiz
 
-## Chapter 12 - Global Sustainability
+## [Chapter 12 - Global Sustainability](chapter-12-global-sustainability)
 
 - [Chapter 12: Learning objectives](chapter-12-global-sustainability/Chapter%2012%20-%20Learning%20objectives.md)
 - Chapter 12 eFlashcards
@@ -132,7 +132,7 @@ Teaches students how to create organizations of high integrity and superior perf
 - Self-Assessment 12.1: Green Living Checklist
 - Chapter 12 Chapter Quiz
 
-## Chapter 13 - Global Citizenship
+## [Chapter 13 - Global Citizenship](chapter-13-global-citizenship)
 
 - [Chapter 13: Learning objectives](chapter-13-global-citizenship/Chapter%2013%20-%20Learning%20objectives.md)
 - Chapter 13 eFlashcards
