@@ -4,6 +4,11 @@ Investigation of contemporary business issues and management dilemmas in relatio
 
 Instructor: Dr. Ryan P. Fuller, Associate Professor
 
+## Major Assignment Paper
+
+1. [assignment-paper-01](assignment-paper-01.md) - **Due Jun 15**
+2. [assignment-paper-02](assignment-paper-02.md) - **Due Jul 6**
+
 ## The Textbook - [Business Ethics: Best Practices for Designing and Managing Ethical Organizations by Denis Collins and Patricia Kanashiro](https://www.amazon.com/Business-Ethics-Practices-Designing-Organizations/dp/1544396821/ref=sr_1_1?qid=1685597364&refinements=p_27%3ADenis+Collins&s=books&sr=1-1&text=Denis+Collins)
 
 Teaches students how to create organizations of high integrity and superior performance. Walks readers through designing ethical organizations using an Ethical Systems Model that outlines best practices for hiring, training, making ethical decisions, and fostering trust. The substantially revised Third Edition integrates the most current research findings; includes three new chapters on corporate governance and stakeholder relationships, global sustainability, and global corporate citizenship; and explores timely topics through new case studies on the opioid crisis, the \#MeToo movement, climate change, and business responses to the COVID-19 pandemic.
