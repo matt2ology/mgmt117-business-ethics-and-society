@@ -1,6 +1,7 @@
 ---
 alias:
 ---
+
 # The Civil Rights Act of 1964
 
 Week 23.2 | Tuesday, June 06, 2023 | 11:22 PM

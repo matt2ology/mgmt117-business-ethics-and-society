@@ -1,6 +1,7 @@
 ---
 alias:
 ---
+
 # Ethical Systems Model Survey
 
 Week 23.3 | Wednesday, June 07, 2023 | 12:11 AM
@@ -8,7 +9,7 @@ Week 23.3 | Wednesday, June 07, 2023 | 12:11 AM
 Related : [Chapter 4 Hiring Ethical People Hiring Ethical People Introduction](../Readwise/Chapter%204%20Hiring%20Ethical%20People%20Hiring%20Ethical%20People%20Introduction.md)
 
 | **Hiring Ethical Job Candidates**                                                                                                                               | **Yes (1)** | **Sometimes (0.5)** | **No (0)** |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------- |:----------- | ------------------- |:---------- |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------- | ------------------- | :--------- |
 | 1. The importance of ethics is highlighted in our job listings.                                                                                                 |             |                     |            |
 | 2. Information is gathered and used in a way that does not discriminate based on a person’s race, color, religion, gender, national origin, age, or disability. |             |                     |            |
 | 3. Reference checks are conducted with a potential employee’s former employer or supervisor.                                                                    |             |                     |            |

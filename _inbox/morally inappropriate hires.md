@@ -1,6 +1,7 @@
 ---
 alias:
 ---
+
 # morally inappropriate hires
 
 Week 23.3 | Wednesday, June 07, 2023 | 12:58 AM

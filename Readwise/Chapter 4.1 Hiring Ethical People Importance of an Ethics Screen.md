@@ -3,6 +3,7 @@
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 
 ## Metadata
+
 - Author: [Denis Collins](Denis Collins), [Patricia Kanashiro](Patricia Kanashiro)
 - Full Title: Chapter 4: Hiring Ethical People: Importance of an Ethics Screen
 - Category: #articles
