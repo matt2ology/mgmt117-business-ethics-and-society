@@ -19,3 +19,4 @@ This chapter provides a six-step process for determining the ethics of job candi
 4.6 Prepare interview questions that address ethical issues.
 
 4.7 Describe when it is appropriate to conduct post interview tests for drug use and lie detecting.
+
