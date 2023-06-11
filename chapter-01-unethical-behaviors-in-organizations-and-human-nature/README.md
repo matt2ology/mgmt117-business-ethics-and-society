@@ -1,4 +1,10 @@
-# Chapter 01 - Learning Objectives
+---
+alias: Chapter 01 - Unethical Behaviors in Organizations and Human Nature
+---
+
+# Chapter 01: Unethical Behaviors in Organizations and Human Nature
+
+## Chapter 01 - Learning Objectives
 
 1.1 Identify common types of unethical behaviors in the workplace.
 
