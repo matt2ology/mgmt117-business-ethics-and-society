@@ -1,4 +1,10 @@
-# Chapter 06 - Learning Objectives
+---
+alias: Chapter 06 - Ethical Decision-Making
+---
+
+# Chapter 06: Ethical Decision-Making
+
+## Chapter 06 - Learning Objectives
 
 6.1 Identify the different factors within the ethical behavior model.
 
