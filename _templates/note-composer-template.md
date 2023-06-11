@@ -7,7 +7,7 @@ alias:
 {{date:[Week] WW.E}} | {{date:dddd, MMMM DD, YYYY}} | {{time:hh:mm A}}
 
 Metadata
-- Related : {{fromTitle}} - note's origin
+- Related : [[{{fromTitle}}]] - note's origin
 
 ## Insight/Note
 
