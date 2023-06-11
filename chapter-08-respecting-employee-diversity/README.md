@@ -1,4 +1,10 @@
-# Chapter 08 - Learning Objectives
+---
+alias: Chapter 08 - Respecting Employee Diversity
+---
+
+# Chapter 08: Respecting Employee Diversity
+
+## Chapter 08 - Learning Objectives
 
 8.1 Describe the four dimensions of diversity.
 
