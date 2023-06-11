@@ -1,4 +1,10 @@
-# Chapter 05 - Learning Objectives
+---
+alias: Chapter 05 - Codes of Ethics and Codes of Conduct
+---
+
+# Chapter 05: Codes of Ethics and Codes of Conduct
+
+## Chapter 05 - Learning Objectives
 
 5.1 Compare a code of ethics with a code of conduct.
 
