@@ -1,4 +1,10 @@
-# Chapter 09 - Learning Objectives
+---
+alias: Chapter 09 - Ethics Reporting Systems
+---
+
+# Chapter 09: Ethics Reporting Systems
+
+## Chapter 09 - Learning Objectives
 
 9.1 Identify why some employees do not report ethical misconduct.
 
