@@ -1,4 +1,10 @@
-# Chapter 13 - Learning Objectives
+---
+alias: Chapter 13 - Global Citizenship
+---
+
+# Chapter 13: Global Citizenship
+
+## Chapter 13 - Learning Objectives
 
 13.1 Describe three primary ethical risks associated with conducting international business.
 
