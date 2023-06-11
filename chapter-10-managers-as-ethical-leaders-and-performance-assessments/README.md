@@ -1,4 +1,10 @@
-# Chapter 10 - Learning Objectives
+---
+alias: Chapter 10 - Managers as Ethical Leaders and Performance Assessments
+---
+
+# Chapter 10: Managers as Ethical Leaders and Performance Assessments
+
+## Chapter 10 - Learning Objectives
 
 10.1 Describe the five sources of power available to managers.
 
