@@ -1,4 +1,10 @@
-# Chapter 11 - Learning Objectives
+---
+alias: Chapter 11 - Ethically Engaging and Empowering Employees
+---
+
+# Chapter 11: Ethically Engaging and Empowering Employees
+
+## Chapter 11 - Learning Objectives
 
 11.1 Explain the extent and benefits of employee engagement.
 
