@@ -1,4 +1,10 @@
-# Chapter 12 - Learning Objectives
+---
+alias: Chapter 12 - Global Sustainability
+---
+
+# Chapter 12: Global Sustainability
+
+## Chapter 12 - Learning Objectives
 
 12.1 Describe how fossil fuel economies impact the Earth’s climate and human well-being.
 
