@@ -1,4 +1,10 @@
-# Chapter 03 - Learning Objectives
+---
+alias: Chapter 03 - Corporate Governance and Stakeholder Relationships
+---
+
+# Chapter 03: Corporate Governance and Stakeholder Relationships
+
+## Chapter 03 - Learning Objectives
 
 3.1 Describe the role of ethical values for the six traditional shareholder-oriented governance systems.
 
