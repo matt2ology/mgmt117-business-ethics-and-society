@@ -1,4 +1,10 @@
-# Chapter 02 - Learning Objectives
+---
+alias: Chapter 02 - The Evolution of Business Ethics
+---
+
+# Chapter 02: The Evolution of Business Ethics
+
+## Chapter 02 - Learning Objectives
 
 2.1 Describe salient business ethics issues in pre-capitalist civilizations.
 
