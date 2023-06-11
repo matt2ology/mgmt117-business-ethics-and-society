@@ -1,4 +1,10 @@
-# Chapter 07 - Learning Objectives
+---
+alias: Chapter 07 - Ethics Training
+---
+
+# Chapter 07: Ethics Training
+
+## Chapter 07 - Learning Objectives
 
 7.1 Describe several basic considerations for designing an ethics training workshop to build a high-integrity work culture.
 
