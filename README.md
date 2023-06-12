@@ -26,8 +26,8 @@ Sage learning platform : <https://vantage.sagepub.com/Login>
 
 ## Major Assignment Paper
 
-1. [assignment-paper-01](assignment-paper-01.md) - **Due Jun 15**
-2. [assignment-paper-02](assignment-paper-02.md) - **Due Jul 6**
+1. [assignment-paper-01](paper-01-project/assignment-paper-01.md) - **Due Jun 15**
+2. [assignment-paper-02](paper-02-project/assignment-paper-02.md) - **Due Jul 6**
 
 ## The Textbook - [Business Ethics: Best Practices for Designing and Managing Ethical Organizations by Denis Collins and Patricia Kanashiro](https://www.amazon.com/Business-Ethics-Practices-Designing-Organizations/dp/1544396821/ref=sr_1_1?qid=1685597364&refinements=p_27%3ADenis+Collins&s=books&sr=1-1&text=Denis+Collins)
 
