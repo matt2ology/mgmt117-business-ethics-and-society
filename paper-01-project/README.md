@@ -2,7 +2,7 @@
 
 ![current brain map of paper's topic](../_attachments/20230612T014407-paper01-brainstorming.png)
 
-Paper's Perspective Lens : [Chapter 01 : Unethical Behaviors in Organizations and Human Nature](../chapter-01-unethical-behaviors-in-organizations-and-human-nature/README.md)
+Paper's Perspective Lens : [Chapter 01 : Unethical Behaviors in Organizations and Human Nature](../chapter-01-unethical-behaviors-in-organizations-and-human-nature)
 
 ## References
 
