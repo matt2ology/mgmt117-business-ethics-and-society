@@ -5,12 +5,10 @@
 		{"type":"file","file":"_attachments/Kerr_culture_of_gamework_2010.pdf","id":"ab9aec2d9a59a33e","x":-680,"y":-884,"width":400,"height":400},
 		{"type":"file","file":"_attachments/Cusick_MEI08_StressQuality.pdf","id":"1ea74718ceb4f557","x":-680,"y":-400,"width":400,"height":400},
 		{"type":"file","file":"_attachments/1486508.1486521-what-went-wrong-a-survey-of-problems-in-game-development.pdf","id":"14cd77c2da06ca58","x":-680,"y":80,"width":400,"height":400},
-		{"type":"file","file":"chapter-01-unethical-behaviors-in-organizations-and-human-nature/README.md","id":"88598099926f3bbe","x":-40,"y":-1266,"width":400,"height":782},
 		{"type":"link","url":"https://www.gamedeveloper.com/production/team-bondi-my-side-of-the-story","id":"e1b9f43f280c1daa","x":960,"y":-400,"width":400,"height":400},
 		{"type":"link","url":"https://www.youtube.com/watch?v=KO53rj04-ls","id":"fb0dd4060a9ca58e","x":1480,"y":-400,"width":640,"height":400}
 	],
 	"edges":[
-		{"id":"41f827a3e444a5d0","fromNode":"88598099926f3bbe","fromSide":"right","toNode":"79b049fb203ba785","toSide":"top","color":"2"},
 		{"id":"7e168a773e555a52","fromNode":"753d2c1eb08c2324","fromSide":"right","toNode":"79b049fb203ba785","toSide":"left","fromEnd":"arrow","color":"2"},
 		{"id":"2082673dca304f68","fromNode":"ab9aec2d9a59a33e","fromSide":"right","toNode":"753d2c1eb08c2324","toSide":"left","fromEnd":"arrow","color":"2"},
 		{"id":"52d9d2d027161f12","fromNode":"1ea74718ceb4f557","fromSide":"right","toNode":"753d2c1eb08c2324","toSide":"left","fromEnd":"arrow","color":"2"},
