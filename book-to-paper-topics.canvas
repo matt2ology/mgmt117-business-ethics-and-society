@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"0d42a8dde81c5320","x":-1300,"y":-600,"width":5566,"height":1170,"color":"4","type":"group","label":"Paper's perspective lens"},
+		{"type":"file","file":"chapter-02-the-evolution-of-business-ethics/README.md","id":"f70ff15b9f59680a","x":-850,"y":-550,"width":400,"height":800},
+		{"type":"file","file":"chapter-03-corporate-governance-and-stakeholder-relationships/README.md","id":"859e39b8f7152acc","x":-420,"y":-550,"width":400,"height":800},
+		{"type":"file","file":"chapter-05-codes-of-ethics-and-codes-of-conduct/README.md","id":"92fa76a5b9943aef","x":460,"y":-550,"width":380,"height":800},
+		{"type":"file","file":"chapter-04-hiring-ethical-people/README.md","id":"0ebfe591f1235d40","x":20,"y":-550,"width":400,"height":1100},
+		{"type":"file","file":"chapter-01-unethical-behaviors-in-organizations-and-human-nature/README.md","id":"4d46b3956fce33b9","x":-1280,"y":-550,"width":400,"height":800},
+		{"type":"file","file":"chapter-10-managers-as-ethical-leaders-and-performance-assessments/README.md","id":"d0bdadc5ac39092b","x":2586,"y":-550,"width":400,"height":800},
+		{"type":"file","file":"chapter-11-ethically-engaging-and-empowering-employees/README.md","id":"abbb14f835fdde93","x":3006,"y":-550,"width":400,"height":800},
+		{"type":"file","file":"chapter-12-global-sustainability/README.md","id":"db322b734e97ad38","x":3426,"y":-550,"width":400,"height":800,"color":"4"},
+		{"type":"file","file":"chapter-13-global-citizenship/README.md","id":"46ba6a60a03667ba","x":3846,"y":-550,"width":400,"height":800},
+		{"type":"file","file":"chapter-06-ethical-decision-making/README.md","id":"2ef606c0e04cefd7","x":880,"y":-550,"width":400,"height":800},
+		{"type":"file","file":"chapter-07-ethics-training/README.md","id":"a8346410c7fd56d3","x":1320,"y":-550,"width":400,"height":800},
+		{"type":"file","file":"chapter-08-respecting-employee-diversity/README.md","id":"dc903c51c9b3995f","x":1746,"y":-550,"width":400,"height":800},
+		{"type":"file","file":"chapter-09-ethics-reporting-systems/README.md","id":"87d984091d9870cf","x":2166,"y":-550,"width":400,"height":800}
+	],
+	"edges":[]
+}
