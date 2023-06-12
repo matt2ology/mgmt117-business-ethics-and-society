@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"type":"group","id":"4adebe3924905eb4","x":-586,"y":-260,"width":2966,"height":860,"label":"Paper's perspective lens"},
+		{"type":"file","file":"chapter-07-ethics-training/README.md","id":"b4f5bc7756698f66","x":-566,"y":-220,"width":400,"height":800},
+		{"type":"file","file":"chapter-08-respecting-employee-diversity/README.md","id":"f16efe34493a4a67","x":-140,"y":-220,"width":400,"height":800},
+		{"type":"file","file":"chapter-09-ethics-reporting-systems/README.md","id":"d548b070df2fc1a6","x":280,"y":-220,"width":400,"height":800},
+		{"type":"file","file":"chapter-11-ethically-engaging-and-empowering-employees/README.md","id":"d1d4e11f19926890","x":1120,"y":-220,"width":400,"height":800},
+		{"type":"file","file":"chapter-12-global-sustainability/README.md","id":"72d6260d7f16f088","x":1540,"y":-220,"width":400,"height":800,"color":"4"},
+		{"type":"file","file":"chapter-13-global-citizenship/README.md","id":"b52aa68bc806d68d","x":1960,"y":-220,"width":400,"height":800},
+		{"type":"file","file":"chapter-10-managers-as-ethical-leaders-and-performance-assessments/README.md","id":"9605235f6a789f2b","x":700,"y":-220,"width":400,"height":800},
+		{"type":"text","text":"Semiconductor Health and Cancer Problem","id":"220a0391965da535","x":1140,"y":660,"width":360,"height":82,"color":"1"},
+		{"type":"text","text":"Big semiconductor water problem","id":"85457963545f44b5","x":1590,"y":660,"width":301,"height":82,"color":"1"},
+		{"type":"link","url":"https://www.youtube.com/watch?v=LzxiUA9NAQ0","id":"35b9435e43e4f5c2","x":1000,"y":880,"width":640,"height":360},
+		{"type":"link","url":"https://asianometry.substack.com/p/the-big-semiconductor-water-problem","id":"0a2536c92d31fa33","x":1891,"y":880,"width":640,"height":360},
+		{"type":"link","url":"https://www.youtube.com/watch?v=Dq04GpzRZ0g","id":"5799f77b449b7b64","x":1891,"y":1340,"width":640,"height":360}
+	],
+	"edges":[
+		{"id":"252c6c54859742a6","fromNode":"0a2536c92d31fa33","fromSide":"left","toNode":"35b9435e43e4f5c2","toSide":"right","fromEnd":"arrow","color":"5"},
+		{"id":"fdf5ec8ae75d7ce8","fromNode":"5799f77b449b7b64","fromSide":"top","toNode":"0a2536c92d31fa33","toSide":"bottom","fromEnd":"arrow","color":"5"},
+		{"id":"62adee281541dc9a","fromNode":"35b9435e43e4f5c2","fromSide":"top","toNode":"220a0391965da535","toSide":"bottom","fromEnd":"arrow","color":"5"},
+		{"id":"272c7ea630867e91","fromNode":"0a2536c92d31fa33","fromSide":"top","toNode":"85457963545f44b5","toSide":"right","fromEnd":"arrow","color":"5"},
+		{"id":"f65a41ee9cce134b","fromNode":"85457963545f44b5","fromSide":"top","toNode":"72d6260d7f16f088","toSide":"bottom","fromEnd":"arrow","color":"4"},
+		{"id":"22e42e4b17f4732d","fromNode":"85457963545f44b5","fromSide":"left","toNode":"220a0391965da535","toSide":"right","color":"5"}
+	]
+}
