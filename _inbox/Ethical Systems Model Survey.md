@@ -26,4 +26,4 @@ Related : [Chapter 4 Hiring Ethical People Hiring Ethical People Introduction](.
 
 **Improving the weakness**: For the “weakness” item noted above, explain what needs to be done, and by whom, to improve the organization or work unit’s performance regarding this one weak item.
 
-![Ethical Systems Model Survey](../_attachments/Pasted%20image%2020230607001240.png)
+![Ethical Systems Model Survey](../_attachments/20230607001240-pasted-image.png)
