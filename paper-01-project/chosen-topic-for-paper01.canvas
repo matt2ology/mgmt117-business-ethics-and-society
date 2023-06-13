@@ -13,7 +13,8 @@
 		{"type":"link","url":"https://www.gamedeveloper.com/production/team-bondi-my-side-of-the-story","id":"e1b9f43f280c1daa","x":1460,"y":-399,"width":400,"height":400},
 		{"type":"text","text":"the problem of adjusting software production time to delivery times","id":"cf080fc4fbbb23a9","x":1633,"y":291,"width":454,"height":100},
 		{"type":"file","file":"chapter-01-unethical-behaviors-in-organizations-and-human-nature/README.md","id":"265fd031dc928bc6","x":1860,"y":-1244,"width":400,"height":782,"color":"3"},
-		{"type":"link","url":"https://www.youtube.com/watch?v=KO53rj04-ls","id":"fb0dd4060a9ca58e","x":2260,"y":-399,"width":640,"height":400}
+		{"type":"link","url":"https://www.youtube.com/watch?v=KO53rj04-ls","id":"fb0dd4060a9ca58e","x":2260,"y":-399,"width":640,"height":400},
+		{"id":"17776ab429ec29c9","x":-680,"y":-1760,"width":400,"height":360,"type":"link","url":"https://www.npr.org/2022/01/14/1073215468/a-small-studio-has-become-the-first-video-game-company-to-unionize-in-north-amer"}
 	],
 	"edges":[
 		{"id":"7e168a773e555a52","fromNode":"753d2c1eb08c2324","fromSide":"right","toNode":"79b049fb203ba785","toSide":"left","fromEnd":"arrow","color":"2"},
@@ -29,6 +30,8 @@
 		{"id":"80f660c32519cb2e","fromNode":"c097447b3d3cc0f2","fromSide":"right","toNode":"91947363dd6d58b4","toSide":"left","fromEnd":"arrow","color":"2"},
 		{"id":"1d30c4cff54419ce","fromNode":"265fd031dc928bc6","fromSide":"left","toNode":"79b049fb203ba785","toSide":"top","color":"2"},
 		{"id":"2a569304201da266","fromNode":"0ecdac49c29056d6","fromSide":"bottom","toNode":"c097447b3d3cc0f2","toSide":"top","color":"4","label":"Initiative to get away from the bad practice within the game development industry : anti-crunch"},
-		{"id":"a6b1e9033386caa1","fromNode":"f7eed0e8a0c53ceb","fromSide":"left","toNode":"c097447b3d3cc0f2","toSide":"top","fromEnd":"arrow","color":"4"}
+		{"id":"a6b1e9033386caa1","fromNode":"f7eed0e8a0c53ceb","fromSide":"left","toNode":"c097447b3d3cc0f2","toSide":"top","fromEnd":"arrow","color":"4"},
+		{"id":"4c5cbf119ec271b1","fromNode":"17776ab429ec29c9","fromSide":"right","toNode":"c097447b3d3cc0f2","toSide":"top","fromEnd":"arrow","color":"4"},
+		{"id":"e59fa9e1bc2fb4f5","fromNode":"0ecdac49c29056d6","fromSide":"left","toNode":"17776ab429ec29c9","toSide":"top","color":"4"}
 	]
 }
