@@ -17,3 +17,4 @@ Paper's Perspective Lens : [Chapter 01 : Unethical Behaviors in Organizations an
 - [The Dark Side of the Video Game Industry | Patriot Act with Hasan Minhaj | Netflix](https://www.youtube.com/watch?v=pLAi_cmly6Q)
 - [Working Conditions - The Deplorable Status Quo that Killed a Studio - Extra Credits](https://www.youtube.com/watch?v=sHBOWPLpXrs)
 - [The Gaming Industry | Start Here](https://www.youtube.com/watch?v=LEurg3JaP2o)
+- [The cruel optimism of “good crunch”: How game industry discourses perpetuate unsustainable labor practices](../_attachments/cote-harris-2021-the-cruel-optimism-of-good-crunch-how-game-industry-discourses-perpetuate-unsustainable-labor-practices.pdf)
