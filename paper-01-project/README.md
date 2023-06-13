@@ -1,6 +1,6 @@
 # Paper 01 Quick Notes - References - Brainstorming
 
-![current brain map of paper's topic](../_attachments/20230612T014407-paper01-brainstorming.png)
+![current brain map of paper's topic](../_attachments/20230613-chosen-topic-for-paper01.png)
 
 
 Paper's Perspective Lens : [Chapter 01 : Unethical Behaviors in Organizations and Human Nature](../chapter-01-unethical-behaviors-in-organizations-and-human-nature)
