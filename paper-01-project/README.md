@@ -2,6 +2,7 @@
 
 ![current brain map of paper's topic](../_attachments/20230613-chosen-topic-for-paper01.png)
 
+Assignment requirements : [assignment-paper-01](assignment-paper-01.md)
 
 Paper's Perspective Lens : [Chapter 01 : Unethical Behaviors in Organizations and Human Nature](../chapter-01-unethical-behaviors-in-organizations-and-human-nature)
 
