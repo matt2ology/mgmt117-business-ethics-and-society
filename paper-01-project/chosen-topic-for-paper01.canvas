@@ -1,12 +1,17 @@
 {
 	"nodes":[
-		{"type":"text","text":"Team Bondi - crunch time","id":"79b049fb203ba785","x":515,"y":-241,"width":285,"height":81,"color":"2"},
-		{"type":"file","file":"_attachments/ICSE-SEIP.2017.18-crunch-time-the-reasons-and-effects-of-unpaid-overtime-in-the-games-industry.pdf","id":"753d2c1eb08c2324","x":-40,"y":-400,"width":400,"height":400},
 		{"type":"file","file":"_attachments/Kerr_culture_of_gamework_2010.pdf","id":"ab9aec2d9a59a33e","x":-680,"y":-884,"width":400,"height":400},
 		{"type":"file","file":"_attachments/Cusick_MEI08_StressQuality.pdf","id":"1ea74718ceb4f557","x":-680,"y":-400,"width":400,"height":400},
 		{"type":"file","file":"_attachments/1486508.1486521-what-went-wrong-a-survey-of-problems-in-game-development.pdf","id":"14cd77c2da06ca58","x":-680,"y":80,"width":400,"height":400},
-		{"type":"link","url":"https://www.gamedeveloper.com/production/team-bondi-my-side-of-the-story","id":"e1b9f43f280c1daa","x":960,"y":-400,"width":400,"height":400},
-		{"type":"link","url":"https://www.youtube.com/watch?v=KO53rj04-ls","id":"fb0dd4060a9ca58e","x":1480,"y":-400,"width":640,"height":400}
+		{"type":"link","url":"https://www.youtube.com/watch?v=l-gF0vDhJVI&t=1521s","id":"8f6906343d0f3faa","x":820,"y":161,"width":640,"height":360},
+		{"type":"text","text":"Team Bondi - crunch time","id":"79b049fb203ba785","x":998,"y":-240,"width":285,"height":81,"color":"2"},
+		{"type":"link","url":"https://www.gamedeveloper.com/production/team-bondi-my-side-of-the-story","id":"e1b9f43f280c1daa","x":1460,"y":-399,"width":400,"height":400},
+		{"type":"text","text":"the problem of adjusting software production time to delivery times","id":"cf080fc4fbbb23a9","x":1660,"y":291,"width":454,"height":100},
+		{"type":"link","url":"https://www.youtube.com/watch?v=KO53rj04-ls","id":"fb0dd4060a9ca58e","x":1980,"y":-399,"width":640,"height":400},
+		{"type":"link","url":"https://www.youtube.com/watch?v=sHBOWPLpXrs","id":"c097447b3d3cc0f2","x":0,"y":-1243,"width":640,"height":360},
+		{"type":"file","file":"_attachments/ICSE-SEIP.2017.18-crunch-time-the-reasons-and-effects-of-unpaid-overtime-in-the-games-industry.pdf","id":"753d2c1eb08c2324","x":60,"y":-541,"width":520,"height":685},
+		{"type":"link","url":"https://www.youtube.com/watch?v=pLAi_cmly6Q","id":"91947363dd6d58b4","x":820,"y":-1244,"width":640,"height":360},
+		{"type":"file","file":"chapter-01-unethical-behaviors-in-organizations-and-human-nature/README.md","id":"265fd031dc928bc6","x":1660,"y":-1244,"width":400,"height":782,"color":"3"}
 	],
 	"edges":[
 		{"id":"7e168a773e555a52","fromNode":"753d2c1eb08c2324","fromSide":"right","toNode":"79b049fb203ba785","toSide":"left","fromEnd":"arrow","color":"2"},
@@ -14,6 +19,12 @@
 		{"id":"52d9d2d027161f12","fromNode":"1ea74718ceb4f557","fromSide":"right","toNode":"753d2c1eb08c2324","toSide":"left","fromEnd":"arrow","color":"2"},
 		{"id":"984836baaf7bfd64","fromNode":"e1b9f43f280c1daa","fromSide":"left","toNode":"79b049fb203ba785","toSide":"right","fromEnd":"arrow","color":"2"},
 		{"id":"0453ed15c4081bf5","fromNode":"fb0dd4060a9ca58e","fromSide":"left","toNode":"e1b9f43f280c1daa","toSide":"right","color":"2"},
-		{"id":"cd3ffcf781a7d442","fromNode":"14cd77c2da06ca58","fromSide":"right","toNode":"753d2c1eb08c2324","toSide":"left","fromEnd":"arrow","color":"2"}
+		{"id":"cd3ffcf781a7d442","fromNode":"14cd77c2da06ca58","fromSide":"right","toNode":"753d2c1eb08c2324","toSide":"left","fromEnd":"arrow","color":"2"},
+		{"id":"118bfb8555040798","fromNode":"8f6906343d0f3faa","fromSide":"top","toNode":"79b049fb203ba785","toSide":"bottom","color":"2","label":"Product production to delivery"},
+		{"id":"6dc0112cd0b58137","fromNode":"cf080fc4fbbb23a9","fromSide":"left","toNode":"8f6906343d0f3faa","toSide":"right","color":"4"},
+		{"id":"666f7c4bf6aac83a","fromNode":"91947363dd6d58b4","fromSide":"bottom","toNode":"79b049fb203ba785","toSide":"top","color":"2"},
+		{"id":"175a6a723a288d7f","fromNode":"753d2c1eb08c2324","fromSide":"top","toNode":"c097447b3d3cc0f2","toSide":"bottom","fromEnd":"arrow","color":"2"},
+		{"id":"80f660c32519cb2e","fromNode":"c097447b3d3cc0f2","fromSide":"right","toNode":"91947363dd6d58b4","toSide":"left","fromEnd":"arrow","color":"2"},
+		{"id":"1d30c4cff54419ce","fromNode":"265fd031dc928bc6","fromSide":"left","toNode":"79b049fb203ba785","toSide":"top","color":"2"}
 	]
 }
