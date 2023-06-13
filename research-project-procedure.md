@@ -2,7 +2,7 @@
 
 Week 24.2 | Tuesday, June 13, 2023 | 12:54 AM
 
-Related : [Paper 01](../paper-01-project), [Paper 02](../paper-02-project)
+Related : [Paper 01](../paper-01-project), [Paper 02](../paper-02-project), [Developing an Argument](developing-an-argument.pdf), [Developing Claims](developing-claims.pdf)
 
 1. My topic is :
 2. I think the most important idea (or the most interesting idea) about my topic is :
