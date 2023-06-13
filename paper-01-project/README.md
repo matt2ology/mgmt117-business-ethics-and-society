@@ -16,3 +16,4 @@ Paper's Perspective Lens : [Chapter 01 : Unethical Behaviors in Organizations an
 - [Clean Code - Uncle Bob / Lesson 6](https://www.youtube.com/watch?v=l-gF0vDhJVI&t=1521s)
 - [The Dark Side of the Video Game Industry | Patriot Act with Hasan Minhaj | Netflix](https://www.youtube.com/watch?v=pLAi_cmly6Q)
 - [Working Conditions - The Deplorable Status Quo that Killed a Studio - Extra Credits](https://www.youtube.com/watch?v=sHBOWPLpXrs)
+- [The Gaming Industry | Start Here](https://www.youtube.com/watch?v=LEurg3JaP2o)
