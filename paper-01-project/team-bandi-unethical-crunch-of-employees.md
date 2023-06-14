@@ -4,4 +4,4 @@ Since the split from the electrical engineering discipline in the 1960s (Shallit
 
 As with all things new there growing pains to be endured and lessons to be learned; for example, the video game studio Team Bandi (pronounced: /ˈbɒndaɪ/ BON-dy) over the span of eight years, spending over a hundred million dollars in production, and in the end filed for bankruptcy after being forced to release their one game: "L.A. Noire".
 
-The most important lesson from Team Bondi's mismanagement is their unreasonable demand of developers that exacerbate the unethical behaviors in their organization and conflicts with human nature. This is important because it creates a toxic work-anxiety environment, imposes 80 hour weeks, and
+The most important lesson from Team Bondi's mismanagement is their unreasonable demand of developers that exacerbate the unethical behaviors in their organization and conflicts with human nature. This is important because it creates a toxic work-anxiety environment, imposes 80 hour weeks on to their developers, and produce a product of inferior quality.
