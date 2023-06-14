@@ -27,3 +27,7 @@ Paper's mind map : [Paper's mind map](chosen-topic-for-paper01.canvas)
 - [Working Conditions - The Deplorable Status Quo that Killed a Studio - Extra Credits](https://www.youtube.com/watch?v=sHBOWPLpXrs)
 - [The Gaming Industry | Start Here](https://www.youtube.com/watch?v=LEurg3JaP2o)
 - [The cruel optimism of “good crunch”: How game industry discourses perpetuate unsustainable labor practices](../_attachments/cote-harris-2021-the-cruel-optimism-of-good-crunch-how-game-industry-discourses-perpetuate-unsustainable-labor-practices.pdf)
+- [A Very Brief History of Computer Science Written by Jeffrey Shallit](https://cs.uwaterloo.ca/~shallit/Courses/134/history.html#:~:text=1960's,at%20Purdue%20University%20in%201962.)
+  ```
+  Shallit, Jeffrey. “A Very Brief History of Computer Science.” _History of Computer Science_, University of Waterloo, 1995, cs.uwaterloo.ca/~shallit/Courses/134/history.html#:~:text=1960’s,at%20Purdue%20University%20in%201962. Accessed 14 June 2023.
+  ```
