@@ -1,5 +1,7 @@
 {
 	"nodes":[
+		{"type":"group","id":"4164a339ff9df73a","x":625,"y":1360,"width":1130,"height":607,"label":"how do you manage a software project"},
+		{"type":"group","id":"1916f1419fb20e12","x":627,"y":2320,"width":1128,"height":415,"label":"mismanagement of a project leads to"},
 		{"type":"file","file":"_attachments/Kerr_culture_of_gamework_2010.pdf","id":"ab9aec2d9a59a33e","x":-680,"y":-884,"width":400,"height":400},
 		{"type":"file","file":"_attachments/Cusick_MEI08_StressQuality.pdf","id":"1ea74718ceb4f557","x":-680,"y":-400,"width":400,"height":400},
 		{"type":"file","file":"_attachments/1486508.1486521-what-went-wrong-a-survey-of-problems-in-game-development.pdf","id":"14cd77c2da06ca58","x":-680,"y":80,"width":400,"height":400},
@@ -9,12 +11,23 @@
 		{"type":"file","file":"_attachments/ICSE-SEIP.2017.18-crunch-time-the-reasons-and-effects-of-unpaid-overtime-in-the-games-industry.pdf","id":"753d2c1eb08c2324","x":60,"y":-541,"width":520,"height":685},
 		{"type":"link","url":"https://www.youtube.com/watch?v=pLAi_cmly6Q","id":"91947363dd6d58b4","x":820,"y":-1244,"width":640,"height":360},
 		{"type":"link","url":"https://www.ninedotsstudio.com","id":"0ecdac49c29056d6","x":0,"y":-2200,"width":640,"height":360},
-		{"id":"f7eed0e8a0c53ceb","x":821,"y":-1760,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=XUcp2bNTwBg"},
+		{"type":"link","url":"https://www.youtube.com/watch?v=XUcp2bNTwBg","id":"f7eed0e8a0c53ceb","x":821,"y":-1760,"width":640,"height":360},
 		{"type":"link","url":"https://www.gamedeveloper.com/production/team-bondi-my-side-of-the-story","id":"e1b9f43f280c1daa","x":1460,"y":-399,"width":400,"height":400},
 		{"type":"text","text":"the problem of adjusting software production time to delivery times","id":"cf080fc4fbbb23a9","x":1633,"y":291,"width":454,"height":100},
 		{"type":"file","file":"chapter-01-unethical-behaviors-in-organizations-and-human-nature/README.md","id":"265fd031dc928bc6","x":1860,"y":-1244,"width":400,"height":782,"color":"3"},
 		{"type":"link","url":"https://www.youtube.com/watch?v=KO53rj04-ls","id":"fb0dd4060a9ca58e","x":2260,"y":-399,"width":640,"height":400},
-		{"id":"17776ab429ec29c9","x":-680,"y":-1760,"width":400,"height":360,"type":"link","url":"https://www.npr.org/2022/01/14/1073215468/a-small-studio-has-become-the-first-video-game-company-to-unionize-in-north-amer"}
+		{"type":"link","url":"https://www.npr.org/2022/01/14/1073215468/a-small-studio-has-become-the-first-video-game-company-to-unionize-in-north-amer","id":"17776ab429ec29c9","x":-680,"y":-1760,"width":400,"height":360},
+		{"type":"text","text":"Badly","id":"846a7614860b0cab","x":645,"y":1580,"width":250,"height":60},
+		{"type":"text","text":"Hope and prayer","id":"874985089d233bee","x":924,"y":1580,"width":250,"height":60},
+		{"type":"text","text":"With great Difficulty","id":"4e26626551c14c60","x":1210,"y":1580,"width":250,"height":60},
+		{"type":"text","text":"Dictate and motivate","id":"ae886cb8aaf5fdc0","x":1485,"y":1580,"width":250,"height":60,"color":"1"},
+		{"type":"text","text":"Dictate by telling everyone how bad it's going to be if we don't deliver the project and then motivate everyone with pictures of people climbing rocks and seagulls flying over the ocean","id":"d049bc818b2d022e","x":1485,"y":1720,"width":250,"height":227,"color":"#fd9191"},
+		{"type":"text","text":"How do you manage a software project?","id":"3c2656b8bf0d904f","x":1045,"y":1380,"width":250,"height":60,"color":"1"},
+		{"type":"text","text":"Produce the wrong product","id":"bb04a623a5c424fe","x":647,"y":2655,"width":250,"height":60},
+		{"type":"text","text":"Produce a product of inferior quality","id":"57c8386077c426eb","x":926,"y":2655,"width":250,"height":60},
+		{"type":"text","text":"Being late","id":"5e4d2ae321c7b73a","x":1212,"y":2655,"width":250,"height":60},
+		{"type":"text","text":"Working 80+ hour weeks","id":"1ca1617e77474030","x":1485,"y":2655,"width":250,"height":60},
+		{"type":"text","text":"We need a way to manage software projects because mismanagement has severe costs","id":"8e5d5953ad02787e","x":1082,"y":2340,"width":250,"height":154}
 	],
 	"edges":[
 		{"id":"7e168a773e555a52","fromNode":"753d2c1eb08c2324","fromSide":"right","toNode":"79b049fb203ba785","toSide":"left","fromEnd":"arrow","color":"2"},
@@ -32,6 +45,17 @@
 		{"id":"2a569304201da266","fromNode":"0ecdac49c29056d6","fromSide":"bottom","toNode":"c097447b3d3cc0f2","toSide":"top","color":"4","label":"Initiative to get away from the bad practice within the game development industry : anti-crunch"},
 		{"id":"a6b1e9033386caa1","fromNode":"f7eed0e8a0c53ceb","fromSide":"left","toNode":"c097447b3d3cc0f2","toSide":"top","fromEnd":"arrow","color":"4"},
 		{"id":"4c5cbf119ec271b1","fromNode":"17776ab429ec29c9","fromSide":"right","toNode":"c097447b3d3cc0f2","toSide":"top","fromEnd":"arrow","color":"4"},
-		{"id":"e59fa9e1bc2fb4f5","fromNode":"0ecdac49c29056d6","fromSide":"left","toNode":"17776ab429ec29c9","toSide":"top","color":"4"}
+		{"id":"e59fa9e1bc2fb4f5","fromNode":"0ecdac49c29056d6","fromSide":"left","toNode":"17776ab429ec29c9","toSide":"top","color":"4"},
+		{"id":"c83a81a100e791d5","fromNode":"3c2656b8bf0d904f","fromSide":"bottom","toNode":"846a7614860b0cab","toSide":"top"},
+		{"id":"6bfdd8010b968852","fromNode":"3c2656b8bf0d904f","fromSide":"bottom","toNode":"874985089d233bee","toSide":"top"},
+		{"id":"2e203bfc4e6ad240","fromNode":"3c2656b8bf0d904f","fromSide":"bottom","toNode":"4e26626551c14c60","toSide":"top"},
+		{"id":"c0d568dc1bc94668","fromNode":"3c2656b8bf0d904f","fromSide":"bottom","toNode":"ae886cb8aaf5fdc0","toSide":"top"},
+		{"id":"2f4e44955d3d0b9d","fromNode":"ae886cb8aaf5fdc0","fromSide":"bottom","toNode":"d049bc818b2d022e","toSide":"top"},
+		{"id":"0b582886f090fc1c","fromNode":"8e5d5953ad02787e","fromSide":"bottom","toNode":"bb04a623a5c424fe","toSide":"top"},
+		{"id":"fd523a455657127b","fromNode":"8e5d5953ad02787e","fromSide":"bottom","toNode":"57c8386077c426eb","toSide":"top"},
+		{"id":"bc036971f7578b60","fromNode":"8e5d5953ad02787e","fromSide":"bottom","toNode":"5e4d2ae321c7b73a","toSide":"top"},
+		{"id":"b747ef7c5f51e3f5","fromNode":"8e5d5953ad02787e","fromSide":"bottom","toNode":"1ca1617e77474030","toSide":"top"},
+		{"id":"90c95683e97c6d12","fromNode":"4164a339ff9df73a","fromSide":"bottom","toNode":"1916f1419fb20e12","toSide":"top"},
+		{"id":"c9a612076be94614","fromNode":"f7eed0e8a0c53ceb","fromSide":"bottom","toNode":"91947363dd6d58b4","toSide":"top","fromEnd":"arrow"}
 	]
 }
