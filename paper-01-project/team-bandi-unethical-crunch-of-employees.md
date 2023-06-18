@@ -10,3 +10,6 @@ The most important lesson from Team Bondi's mismanagement is their unreasonable 
 
 Forecast statement:
 If game development studios continue to perpetuate unreasonable demands on developers, exacerbating unethical behaviors and conflicts with human nature, the industry will witness a perpetuation of toxic work environments, continued imposition of excessive work hours, and a continued decline in the quality of products. By examining these issues, we gain valuable insights into the importance of ethical leadership and employee well-being in the game development industry.
+
+Ethical frameworks provide guidelines for organizations to cultivate ethical behavior, create a positive work culture, and align their practices with fundamental aspects of human nature. The mismanagement at Team Bondi, as stated in the thesis, exacerbated unethical behaviors within the organization and conflicted with human nature.
+
