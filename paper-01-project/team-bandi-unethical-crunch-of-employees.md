@@ -19,3 +19,10 @@ By applying ethical frameworks, such as the consequentialist approach where whet
 
 While additional and specific ethical frameworks and perspectives from Collins and Kanashiro's "Business Ethics: Best Practices for Designing and Managing Ethical Organizations" could provide a more in-depth analysis and support, the consequentialist approach highlights the ethical ramifications of their actions. By evaluating the outcomes and consequences of their unreasonable demands, it becomes clear why their mismanagement ultimately led to their downfall.
 
+## Works Cited
+
+Collins, Denis, and Patricia Kanashiro. _Business Ethics: Best Practices for Designing and Managing Ethical Organizations_. Third ed., SAGE Publications, Inc, 2021.
+
+The Ethics Centre. “Ethics Explainer: What Is Consequentialism?” _THE ETHICS CENTRE_, 15 Feb. 2016, ethics.org.au/ethics-explainer-consequentialism/#:~:text=Consequentialism%20is%20a%20theory%20that,of%20this%20theory%20is%20utilitarianism. Accessed 17 June 2023.
+
+“Working Conditions - The Deplorable Status Quo That Killed a Studio - Extra Credits.” _YouTube_, YouTube, 19 May 2012, www.youtube.com/watch?v=sHBOWPLpXrs. Accessed 17 June 2023.
