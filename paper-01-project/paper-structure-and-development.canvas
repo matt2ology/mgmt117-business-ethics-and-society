@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"442de3c9963c3f30","x":-273,"y":647,"width":666,"height":400,"type":"group","label":"Ethical Framework/Perspective (1-2 pages)"},
+		{"id":"b82d9e8b69b47ade","x":-140,"y":-360,"width":400,"height":400,"type":"group","label":"Title Page (not included in word count)"},
+		{"id":"b6078d71eca41d09","x":-140,"y":160,"width":400,"height":380,"type":"group","label":"Introduction: 1 page "},
+		{"id":"acc791075e4c31e1","x":-83,"y":-272,"width":250,"height":132,"type":"text","text":"The Dark Shadows of Mismanagement: Unmasking the Noire of Team Bondi's Demise"}
+	],
+	"edges":[
+		{"id":"92360d9b465f4814","fromNode":"b82d9e8b69b47ade","fromSide":"bottom","toNode":"b6078d71eca41d09","toSide":"top"},
+		{"id":"f432c66810466d7d","fromNode":"b6078d71eca41d09","fromSide":"bottom","toNode":"442de3c9963c3f30","toSide":"top"}
+	]
+}
