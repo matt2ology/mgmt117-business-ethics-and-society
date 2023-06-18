@@ -8,4 +8,5 @@ The problem with Team Bondi's mismanagement, specifically, is their unreasonable
 Thesis statement:
 The most important lesson from Team Bondi's mismanagement is their unreasonable demand of developers. This is important because it creates a toxic work environment, imposes 80-hour weeks on their developers, and results in the production of an inferior quality product.
 
-The most important lesson from Team Bondi's mismanagement is their unreasonable demand of developers that exacerbate the unethical behaviors in their organization and conflicts with human nature. This is important because it creates a toxic work-anxiety environment, imposes 80 hour weeks on to their developers, and produce a product of inferior quality.
+Forecast statement:
+If game development studios continue to perpetuate unreasonable demands on developers, exacerbating unethical behaviors and conflicts with human nature, the industry will witness a perpetuation of toxic work environments, continued imposition of excessive work hours, and a continued decline in the quality of products. By examining these issues, we gain valuable insights into the importance of ethical leadership and employee well-being in the game development industry.
