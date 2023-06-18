@@ -10,3 +10,4 @@
 .DS_Store
 .obsidian/plugins/better-word-count/main.js
 .obsidian/plugins/better-word-count/manifest.json
+.obsidian/plugins/better-word-count/styles.css
