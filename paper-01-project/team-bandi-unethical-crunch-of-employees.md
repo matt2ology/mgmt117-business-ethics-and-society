@@ -17,7 +17,9 @@ According to Collins and Kanashiro, ethical organizations prioritize the well-be
 
 By applying ethical frameworks, such as the consequentialist approach where whether something is good or bad depends on its outcomes (The Ethics Centre), it becomes apparent that Team Bondi's mismanagement deviated from ethical best practices outlined by Collins and Kanashiro. The organization's actions created a toxic work environment, imposed excessive work hours, and compromised the quality of their product.
 
-While additional and specific ethical frameworks and perspectives from Collins and Kanashiro's "Business Ethics: Best Practices for Designing and Managing Ethical Organizations" could provide a more in-depth analysis and support, the consequentialist approach highlights the ethical ramifications of their actions. By evaluating the outcomes and consequences of their unreasonable demands, it becomes clear why their mismanagement ultimately led to their downfall.
+While additional and specific ethical frameworks and perspectives from Collins and Kanashiro's "Business Ethics: Best Practices for Designing and Managing Ethical Organizations" could provide a more in-depth analysis and support, the consequentialist approach highlights the ethical ramifications of their actions. By evaluating the outcomes and consequences of their unreasonable demands, it becomes clear why Team Bondi's mismanagement ultimately led to their downfall.
+
+
 
 ## Works Cited
 
