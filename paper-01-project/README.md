@@ -10,6 +10,12 @@ Paper's mind map : [Paper's mind map](chosen-topic-for-paper01.canvas)
 
 ## References - MLA (8th Edition)
 
+- Business Ethics: Best Practices for Designing and Managing Ethical Organizations
+
+```txt
+Kanashiro, Patricia. Business Ethics: Best Practices for Designing and Managing Ethical Organizations, by DENIS COLLINS, SAGE PUBLICATIONS, Thousand Oaks, California, 2021.
+```
+
 - [Crunch Time: The Reasons and Effects of Unpaid Overtime in the Games Industry](../_attachments/ICSE-SEIP.2017.18-crunch-time-the-reasons-and-effects-of-unpaid-overtime-in-the-games-industry.pdf) ```
 
   ```txt
@@ -42,3 +48,9 @@ Paper's mind map : [Paper's mind map](chosen-topic-for-paper01.canvas)
   ```txt
   Meslow, S. (2017, November 20). Revisiting the game that nearly revolutionized the video game industry. GQ. https://www.gq.com/story/revisiting-la-noire#:~:text=Team%20Bondi’s%20ambitious%20video%20game,depending%20on%20who%20you%20believe.
   ```
+
+- [Ethics Explainer: Consequentialism](https://ethics.org.au/ethics-explainer-consequentialism/#:~:text=Consequentialism%20is%20a%20theory%20that,of%20this%20theory%20is%20utilitarianism.)
+
+```txt
+THE ETHICS CENTRE. "Ethics Explainer: What Is Consequentialism?" _THE ETHICS CENTRE_, 15 Feb. 2016, ethics.org.au/ethics-explainer-consequentialism/#:~:text=Consequentialism%20is%20a%20theory%20that,of%20this%20theory%20is%20utilitarianism. Accessed 17 Jun. 2023.
+```
