@@ -5,5 +5,7 @@ It's all fun and games until the developers are hurt. Characterized by Big Tech 
 Problem statement:
 The problem with Team Bondi's mismanagement, specifically, is their unreasonable demands imposed on developers. These demands exacerbate unethical behaviors within the organization and generate conflicts with fundamental aspects of human nature.
 
+Thesis statement:
+The most important lesson from Team Bondi's mismanagement is their unreasonable demand of developers. This is important because it creates a toxic work environment, imposes 80-hour weeks on their developers, and results in the production of an inferior quality product.
 
 The most important lesson from Team Bondi's mismanagement is their unreasonable demand of developers that exacerbate the unethical behaviors in their organization and conflicts with human nature. This is important because it creates a toxic work-anxiety environment, imposes 80 hour weeks on to their developers, and produce a product of inferior quality.
